@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan-naqvi&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-naqvi" /> </p>
 
-- 🔭 I’m currently working on **Sign Language Recognition**
+- 🔭 I’m currently working on **Sign Language Recognition for Bi-Directional communication**
 
-- 🌱 I’m currently learning **Blockchain, word-based NLP models**
+- 🌱 I’m currently learning **Blockchain, Language based models for Machine Translation**
 
-- 👯 I’m looking to collaborate on **Blockchain**
+- 👯 I’m looking to collaborate on **Blockchain and Web Dev Projects**
 
 - 💬 Ask me about **Deep Learning, Video processing**
 
