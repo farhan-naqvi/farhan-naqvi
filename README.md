@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Sign Language Recognition**
 
-- 🌱 I’m currently learning **Bloackchain, word-based NLP models**
+- 🌱 I’m currently learning **Blockchain, word-based NLP models**
 
 - 👯 I’m looking to collaborate on **Blockchain**
 
