@@ -7,13 +7,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan-naqvi&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-naqvi" /> </p>
 
-- 🔭 I’m currently working on **Sign Language Recognition for Bi-Directional communication**
+- 🔭 I’m currently working on mitigating bias in low-resource Indic languages through fine-tuning state-of-the-art models and developing an LSTM-based recommendation system to determine ideal backup times based on system resource usage.
 
-- 🌱 I’m currently learning **Blockchain, Language based models for Machine Translation**
+- 🌱 I’m currently learning federated learning techniques for distributed systems.
 
-- 👯 I’m looking to collaborate on **Blockchain and Web Dev Projects**
+- 👯 I’m looking to collaborate on AI/ML research projects, federated learning frameworks, and low-latency network implementations in C++ for HFT.
 
-- 💬 Ask me about **Deep Learning, Video processing**
+- 💬 Ask me about Deep Learning, Video Processing, RAG systems, Bias Mitigation in Indic Languagesand Time Series Forecasting.
+
+- 🏆 I’ve been recognized as a DeveloperWeek Global Cloud Hackathon Winner and secured third place for developing an application that aids communication for individuals with hearing and speech impairments.
+
+- 📚 I’ve worked on projects ranging from Sign Language Recognition for Bi-Directional Communication to anomaly detection in audit logs and stock market prediction using advanced statistical models.
+
+- 🎯 My goal is to contribute to cutting-edge AI research that bridges the gap between ethical AI development and real-world applications.
 
 - 📫 How to reach me **farhannaqvi16@gmail.com**
 
