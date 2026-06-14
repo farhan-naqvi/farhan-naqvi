@@ -1,27 +1,149 @@
 <!-- [![MasterHead](https://giphy.com/embed/f3iwJFOVOwuy7K6FFw)] -->
+# Hi 👋, I'm Farhan Naqvi
 
-<h1 align="center">Hi 👋, I'm Farhan</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+### Building AI systems, distributed systems, and scalable backend infrastructure
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan-naqvi&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-naqvi" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=farhan-naqvi&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-- 🔭 I’m currently working on mitigating bias in low-resource Indic languages through fine-tuning state-of-the-art models and developing an LSTM-based recommendation system to determine ideal backup times based on system resource usage.
+---
 
-- 🌱 I’m currently learning federated learning techniques for distributed systems.
+## About Me
 
-- 👯 I’m looking to collaborate on AI/ML research projects, federated learning frameworks, and low-latency network implementations in C++ for HFT.
+Software Engineer and Master's student in Computer Science exploring the intersection of **AI systems, distributed systems, and infrastructure engineering**.
 
-- 💬 Ask me about Deep Learning, Video Processing, RAG systems, Bias Mitigation in Indic Languagesand Time Series Forecasting.
+I enjoy building systems that move from research ideas into production — spanning intelligent applications, storage architectures, backend services, and scalable ML workflows.
 
-- 🏆 I’ve been recognized as a DeveloperWeek Global Cloud Hackathon Winner and secured third place for developing an application that aids communication for individuals with hearing and speech impairments.
+* 🎓 MSc Computer Science @ University of Stuttgart
 
-- 📚 I’ve worked on projects ranging from Sign Language Recognition for Bi-Directional Communication to anomaly detection in audit logs and stock market prediction using advanced statistical models.
+* 💼 Former Software Engineer with experience building production systems and data platforms
 
-- 🎯 My goal is to contribute to cutting-edge AI research that bridges the gap between ethical AI development and real-world applications.
+* 🔭 Currently building:
 
-- 📫 How to reach me **farhannaqvi16@gmail.com**
+  * Distributed storage systems
+  * AI applications and retrieval systems
+  * Recommendation and anomaly detection pipelines
+
+* 🌱 Currently learning:
+
+  * Distributed infrastructure
+  * Federated learning
+  * Low-latency systems
+  * High-performance networking
+
+* 👯 Open to collaborating on:
+
+  * AI systems
+  * Distributed backend platforms
+  * ML infrastructure
+  * Storage and retrieval architectures
+
+* 💬 Ask me about:
+
+  * Distributed Systems
+  * Machine Learning Systems
+  * RAG Applications
+  * Storage Architectures
+  * gRPC Services
+  * Computer Vision
+
+* 🏆 Highlights:
+
+  * DeveloperWeek Global Cloud Hackathon Winner
+  * Built projects across AI, storage systems, anomaly detection, recommendation systems, and intelligent applications
+
+* 🎯 Long-term goal:
+
+  Build intelligent infrastructure and scalable systems that combine AI research with real-world engineering.
+
+* 📫 Reach me:
+
+  **[farhannaqvi16@gmail.com](mailto:farhannaqvi16@gmail.com)**
+
+---
+
+## Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/farhan-naqvi/" target="_blank">
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+alt="linkedin"
+height="30"
+width="40"/>
+</a>
+
+<a href="https://hashnode.com/@farhan16" target="_blank">
+<img align="center"
+src="https://cdn.simpleicons.org/hashnode"
+alt="hashnode"
+height="30"
+width="40"/>
+</a>
+
+<a href="mailto:farhannaqvi16@gmail.com">
+<img align="center"
+src="https://cdn.simpleicons.org/gmail"
+alt="email"
+height="30"
+width="40"/>
+</a>
+
+</p>
+
+---
+
+## Core Technologies
+
+### Languages
+
+`Python` `C++` `Java` `JavaScript` `SQL`
+
+### Backend & Infrastructure
+
+`Go` `gRPC` `PostgreSQL` `Elasticsearch` `Linux`
+
+### AI / ML
+
+`PyTorch` `TensorFlow` `Scikit-learn` `OpenCV`
+
+### Distributed Systems
+
+`Storage Systems` `Retrieval Systems` `Data Pipelines`
+
+### Developer Tools
+
+`Git` `Docker` `Postman`
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=farhan-naqvi&show_icons=true&count_private=true"
+height="170"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs?username=farhan-naqvi&show_icons=true&layout=compact"
+height="170"
+/>
+
+</p>
+
+---
+
+<p align="center">
+
+Building things that live at the intersection of AI, systems, and infrastructure.
+
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
