@@ -2,7 +2,7 @@
 
 ### Building AI systems, distributed systems, and scalable backend infrastructure
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=farhan-naqvi&label=Profile%20views&color=0e75b6&style=flat" />
@@ -14,7 +14,7 @@
 
 Software Engineer and Master's student in Computer Science exploring the intersection of **AI systems, distributed systems, and infrastructure engineering**.
 
-I enjoy building systems that move from research ideas into production — spanning intelligent applications, storage architectures, backend services, and scalable ML workflows.
+I enjoy building systems that move from research ideas into production - spanning intelligent applications, storage architectures, backend services, and scalable ML workflows.
 
 * 🎓 MSc Computer Science @ University of Stuttgart
 
@@ -117,24 +117,6 @@ width="40"/>
 ### Developer Tools
 
 `Git` `Docker` `Postman`
-
----
-
-## GitHub Analytics
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=farhan-naqvi&show_icons=true&count_private=true"
-height="170"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs?username=farhan-naqvi&show_icons=true&layout=compact"
-height="170"
-/>
-
-</p>
 
 ---
 
